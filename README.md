@@ -30,7 +30,7 @@ I'm Laksh, a passionate AI enthusiast and developer with experience in integrati
 - **UTKRAANTI-18**: Winner of the ML hackathon at IIT Kharagpur for image classification.
 
 ### 💼 Experience
-- **Pega Launchpad Platform**: Played a key role in integrating generative AI, boosting user engagement, and transforming capabilities.
+- **Pega  Platform**: Played a key role in integrating generative AI, boosting user engagement, and transforming capabilities.
 - **Bits Pilani (April 2022 – Dec 2023)**: Guided undergrad students as a Teaching Assistant in Blockchain, NLP, and Cryptography.
 - **Alekhta TechSolutions LLP (May 2019 – June 2019)**: Created chatbots using Google’s Dialogue Flow.
 
